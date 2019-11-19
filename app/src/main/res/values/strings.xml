@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Psycho</string>
+    <string name="keySize">Size</string>
+    <string name="keySound">Sound</string>
+    <string name="keyMode">Mode</string>
+    <string name="shuffle">Zamíchat</string>
+    <string name="newGame">Nová hra</string>
+    <string name="gameOver">Hotovo</string>
+    <string name="setup_title">Nastavení</string>
+    <string name="setup_sound">Zvuk</string>
+    <string name="setup_soundon">Zvuk zapnuto</string>
+    <string name="setup_soundoff">Zvuk vypnuto</string>
+    <string name="lblNextNumber">Příští číslo</string>
+    <string name="lblTestTime">Testovací čas</string>
+    <string name="setup_boardsize">Hrací pole</string>
+    <string name="setup_gameMode">Režim hry</string>
+    <string name="help">Nápověda</string>
+    <string name="help_content">Na hrací ploše jsou náhodně rozmístěná čísla 1,2,3,... Úkolem je projít postupně všechna čísla od 1 do nejvyššího čísla. Měří se čas potřebný k proklikání všech čísel.\n\n
+        Program se do výchozího stavu uvede tlačítkem \'Nová hra\'. Čas se začne měřit po stisku tlačítka 1. Během hry lze stisknout vždy jen číslo o jedna větší než bylo předchozí, žádné číslo nelze vynechat. Dosažením nejvyššího čísla se hra ukončí.\n\n
+        Autor: Pavel Hermann\n
+        email: pavel.hermann@post.cz
+    </string>
+</resources>

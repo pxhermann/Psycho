@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sizeDesc">
+        <item >4 x 4</item>
+        <item >5 x 5</item>
+        <item >6 x 6</item>
+        <item >7 x 7</item>
+    </string-array>
+    <string-array name="sizeValue">
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+    </string-array>
+    <string-array name="modeDesc">
+        <item >Standard</item>
+        <item >Hide passed numbers</item>
+        <item >Shuffle after each pass</item>
+    </string-array>
+    <string-array name="modeValue">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+</resources>

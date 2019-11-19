@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/setup_title">
+    <CheckBoxPreference android:title="@string/setup_sound" android:key="@string/keySound" android:defaultValue="true" android:summaryOff="@string/setup_soundoff" android:summaryOn="@string/setup_soundon"/>
+    <ListPreference android:key="@string/keySize" android:title="@string/setup_boardsize" android:dialogTitle="@string/setup_boardsize" android:entryValues="@array/sizeValue" android:entries="@array/sizeDesc" android:defaultValue="5"/>
+    <ListPreference android:key="@string/keyMode" android:entryValues="@array/modeValue" android:entries="@array/modeDesc" android:title="@string/setup_gameMode" android:dialogTitle="@string/setup_gameMode" android:defaultValue="1"/>
+    
+</PreferenceScreen>

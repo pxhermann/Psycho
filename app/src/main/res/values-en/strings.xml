@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Psycho</string>
+    <string name="keySize">Size</string>
+    <string name="keySound">Sound</string>
+    <string name="keyMode">Mode</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="newGame">New game</string>
+    <string name="gameOver">Done</string>
+    <string name="setup_title">Setup</string>
+    <string name="setup_sound">Sounds</string>
+    <string name="setup_soundon">Sounds on</string>
+    <string name="setup_soundoff">Sounds off</string>
+    <string name="lblNextNumber">Next No.</string>
+    <string name="lblTestTime">Test time</string>
+    <string name="setup_boardsize">Playing board</string>
+    <string name="setup_gameMode">Game mode</string>
+    <string name="help">Help</string>
+    <string name="help_content">The playboard contains randomly spaced consecutive numbers 1,2,3,... The goal is to go through all numbers one begind the other from 1 to highers number. Time needed to pass all numbers is measured.\n\n
+        Initialize game by pressing button \'New game\'. Chronology starts automatically after pressing button with value 1.  After that you can press always just button with value one greater than previous button. This way you must pass all numbers, no number may be skipped. Game ends by reaching highest number.\n\n
+        Author: Pavel Hermann\n
+        email: pavel.hermann@post.cz
+    </string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_newgame" android:title="@string/newGame" android:icon="@drawable/ic_menu_home" android:visible="true" android:showAsAction="always"/>
+    <item android:id="@+id/menu_shuffle" android:title="@string/shuffle" android:icon="@drawable/ic_menu_refresh" android:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_setup" android:title="@string/setup_title" android:icon="@drawable/ic_menu_preferences" android:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_help" android:title="@string/help" android:icon="@drawable/ic_menu_help" android:showAsAction="ifRoom"/>
+</menu>
