@@ -344,7 +344,7 @@ public class ActMain extends Activity
 
 		AlertDialog dlg = (new AlertDialog.Builder(this))
 			.setTitle(R.string.app_name)
-			.setMessage(R.string.help_content)
+			.setView(getLayoutInflater().inflate(R.layout.dlg_help, null))	//			.setMessage(R.string.help_content)
 			.setCancelable(true)
 			.setNeutralButton("OK", null)
 			.create();

@@ -17,8 +17,6 @@
     <string name="setup_gameMode">Game mode</string>
     <string name="help">Help</string>
     <string name="help_content">The playboard contains randomly spaced consecutive numbers 1,2,3,... The goal is to go through all numbers one begind the other from 1 to highers number. Time needed to pass all numbers is measured.\n\n
-        Initialize game by pressing button \'New game\'. Chronology starts automatically after pressing button with value 1.  After that you can press always just button with value one greater than previous button. This way you must pass all numbers, no number may be skipped. Game ends by reaching highest number.\n\n
-        Author: Pavel Hermann\n
-        email: pavel.hermann@post.cz
-    </string>
+        Initialize game by pressing button \'New game\'. Chronology starts automatically after pressing button with value 1.  After that you can press always just button with value one greater than previous button. This way you must pass all numbers, no number may be skipped. Game ends by reaching highest number.</string>
+    <string name="lblAuthor">Author:</string>
 </resources>

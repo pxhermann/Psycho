@@ -18,7 +18,7 @@ public class ActSetup extends PreferenceActivity implements OnSharedPreferenceCh
 		
 		addPreferencesFromResource(R.xml.setup);
 
-		ListPreference listSize = (ListPreference) getPreferenceScreen().findPreference(getString(R.string.keySize));
+		ListPreference listSize = (ListPreference)getPreferenceScreen().findPreference(getString(R.string.keySize));
 		listSize.setSummary(listSize.getEntry());
 //		listSize.setOnPreferenceChangeListener(new OnPreferenceChangeListener() {
 //			@Override

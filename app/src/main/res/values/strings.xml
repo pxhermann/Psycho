@@ -17,8 +17,6 @@
     <string name="setup_gameMode">Režim hry</string>
     <string name="help">Nápověda</string>
     <string name="help_content">Na hrací ploše jsou náhodně rozmístěná čísla 1,2,3,... Úkolem je projít postupně všechna čísla od 1 do nejvyššího čísla. Měří se čas potřebný k proklikání všech čísel.\n\n
-        Program se do výchozího stavu uvede tlačítkem \'Nová hra\'. Čas se začne měřit po stisku tlačítka 1. Během hry lze stisknout vždy jen číslo o jedna větší než bylo předchozí, žádné číslo nelze vynechat. Dosažením nejvyššího čísla se hra ukončí.\n\n
-        Autor: Pavel Hermann\n
-        email: pavel.hermann@post.cz
-    </string>
+        Program se do výchozího stavu uvede tlačítkem \'Nová hra\'. Čas se začne měřit po stisku tlačítka 1. Během hry lze stisknout vždy jen číslo o jedna větší než bylo předchozí, žádné číslo nelze vynechat. Dosažením nejvyššího čísla se hra ukončí.</string>
+    <string name="lblAuthor">Autor:</string>
 </resources>
